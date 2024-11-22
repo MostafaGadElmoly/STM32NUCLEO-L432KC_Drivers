@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "rcc_config.h": "c",
+        "bit_math.h": "c"
+    }
+}
